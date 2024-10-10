@@ -25,5 +25,5 @@ jobs:
 
       - name: Run Build
         run: 
-          npm build
+          npm run build
         working-directory: ./Varshil_Assignment2
