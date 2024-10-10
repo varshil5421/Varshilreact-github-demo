@@ -1,4 +1,4 @@
-name: Test Project
+sniname: Test Project
 on: 
   push:
     branches:
